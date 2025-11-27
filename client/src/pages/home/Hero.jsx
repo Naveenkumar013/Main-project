@@ -15,13 +15,12 @@ function Hero() {
         <div className="z-10 absolute mx-auto max-w-screen-xl lg:px-24 px-4 sm:px-6 top-[50%] -translate-y-[50%]">
           <div className="max-w-xl text-center sm:text-left">
             <h1 className="text-3xl font-bold md:text-5xl">
-              Crop
-              <strong className="font-bold text-rose-700">Connect</strong>
+              Agro
+              <strong className="font-bold text-rose-700">Bridge</strong>
             </h1>
 
             <p className="mt-4 max-w-lg sm:text-xl sm:leading-relaxed">
-              Connecting Farmers and Consumers - Bringing Fresh Produce to Your
-              Doorstep!
+            Bridging the Gap Between Farmers and Consumers — Fresh Produce, Delivered!
             </p>
           </div>
         </div>
